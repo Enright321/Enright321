@@ -12,13 +12,19 @@
   - [Project F.A.D.S.](https://github.com/Enright321/fall_detection)
 
 <h2>:pencil: Blog:</h2>
-  - [Web Development Blog](http://joeenrightblog.com/)
+- <b>Web Development Blog</b>
+  - [Praciting DS & Algos in Python](https://github.com/Enright321/python_DS_and_Algs)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoeEnright | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joeenrightdev/
+
+<br/>
+📫 enrightjoe4@gmail.com
+<br />
+📲 314-435-9319
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
