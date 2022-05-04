@@ -7,7 +7,9 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in JavaScript](https://github.com/Enright321/algs)
 - <b>Full Stack Web App (MongoDB, Express, React, and NodeJS)</b>
-  - [Pizza Store App](https://github.com/Enright321/React_Pizza_App) 
+  - [Pizza Store App](https://github.com/Enright321/React_Pizza_App)
+- <b>Fall Detection Software in Python</b>
+  - [Project F.A.D.S.](https://github.com/Enright321/fall_detection) 
 
 <h2> 🤳 Connect with me:</h2>
 
