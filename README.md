@@ -7,7 +7,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in JavaScript](https://github.com/Enright321/algs)
 - <b>Full Stack Web App (MongoDB, Express, React, and NodeJS)</b>
-  - [Image Analysis Middleware](https://github.com/Enright321/React_Pizza_App) <b><i>(Potentially NSFW)</b></i>
+  - [Pizza Store App](https://github.com/Enright321/React_Pizza_App) 
 
 <h2> 🤳 Connect with me:</h2>
 
