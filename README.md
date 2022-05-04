@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Python - Praciting DS & Algos](https://github.com/Enright321/python_DS_and_Algs)
-  - [JavaScript - Praciting DS & Algos](https://github.com/Enright321/algs)
+  - [Python - Practicing DS & Algos](https://github.com/Enright321/python_DS_and_Algs)
+  - [JavaScript - Practicing DS & Algos](https://github.com/Enright321/algs)
 - <b>Full Stack Web App (MongoDB, Express, React, and NodeJS)</b>
   - [Pizza Store App](https://github.com/Enright321/React_Pizza_App)
 - <b>Fall Detection Software in Python</b>
@@ -32,17 +32,3 @@
 <br />
 📲 314-435-9319
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
