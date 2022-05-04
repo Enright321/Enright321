@@ -19,9 +19,8 @@
 
 - <b>Endure Hoops</b>
   - [Personal Trainer Website](https://github.com/Enright321/Freelance_work/tree/master/EndureHoops)
-
-- <b>Endure Hoops</b>
-  - [Personal Trainer Website](https://github.com/Enright321/Freelance_work/tree/master/EA_Construction)
+- <b>E&A Construction and Remodeling</b>
+  - [Construction Website](https://github.com/Enright321/Freelance_work/tree/master/EA_Construction)
 
 <h2> 🤳 Connect with me:</h2>
 
