@@ -3,17 +3,22 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/Enright321/python_DS_and_Algs)
-- <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in JavaScript](https://github.com/Enright321/algs)
+  - [Python - Praciting DS & Algos](https://github.com/Enright321/python_DS_and_Algs)
+  - [JavaScript - Praciting DS & Algos](https://github.com/Enright321/algs)
 - <b>Full Stack Web App (MongoDB, Express, React, and NodeJS)</b>
   - [Pizza Store App](https://github.com/Enright321/React_Pizza_App)
 - <b>Fall Detection Software in Python</b>
   - [Project F.A.D.S.](https://github.com/Enright321/fall_detection)
 
 <h2>:pencil: Blog:</h2>
+
 - <b>Web Development Blog</b>
-  - [Praciting DS & Algos in Python](https://github.com/Enright321/python_DS_and_Algs)
+  - [Tutorials and articles related to web development](http://joeenrightblog.com/)
+
+<h2>💻 Freelance Projects:</h2>
+
+- <b>Endure Hoops</b>
+  - [Personal Trainer Website](https://github.com/Enright321/endure_hoops)
 
 <h2> 🤳 Connect with me:</h2>
 
