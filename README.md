@@ -18,7 +18,7 @@
 <h2>💻 Freelance Projects:</h2>
 
 - <b>Endure Hoops</b>
-  - [Personal Trainer Website](https://github.com/Enright321/endure_hoops)
+  - [Personal Trainer Website](https://github.com/Enright321/Freelance_work/tree/master/EndureHoops)
 
 <h2> 🤳 Connect with me:</h2>
 
