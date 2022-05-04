@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoeEnright | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/D5635AQG5CUgipbNFNg/profile-framedphoto-shrink_400_400/0/1648502570569?e=1651716000&v=beta&t=2mAD3ZOu0Maa3_DIYntaFjTkWeX7Z_KQKA760V_CZas" />][linkedin]
+[<img align="left" alt="JoeEnright | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joeenrightdev/
 
