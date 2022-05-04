@@ -22,6 +22,7 @@
 [linkedin]: https://www.linkedin.com/in/joeenrightdev/
 
 <br/>
+<br />
 📫 enrightjoe4@gmail.com
 <br />
 📲 314-435-9319
