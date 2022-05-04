@@ -9,7 +9,10 @@
 - <b>Full Stack Web App (MongoDB, Express, React, and NodeJS)</b>
   - [Pizza Store App](https://github.com/Enright321/React_Pizza_App)
 - <b>Fall Detection Software in Python</b>
-  - [Project F.A.D.S.](https://github.com/Enright321/fall_detection) 
+  - [Project F.A.D.S.](https://github.com/Enright321/fall_detection)
+
+<h2>:pencil: Blog:</h2>
+  - [Web Development Blog](http://joeenrightblog.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
