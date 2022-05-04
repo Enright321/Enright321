@@ -20,6 +20,9 @@
 - <b>Endure Hoops</b>
   - [Personal Trainer Website](https://github.com/Enright321/Freelance_work/tree/master/EndureHoops)
 
+- <b>Endure Hoops</b>
+  - [Personal Trainer Website](https://github.com/Enright321/Freelance_work/tree/master/EA_Construction)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoeEnright | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
