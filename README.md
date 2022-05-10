@@ -15,6 +15,11 @@
 - <b>Web Development Blog</b>
   - [Tutorials and articles related to web development](http://joeenrightblog.com/)
 
+<h2>:zap: Logos:</h2>
+
+- <b>Logos</b>
+  - [Different logos created for projects](https://github.com/Enright321/logos)
+
 <h2>💻 Freelance Projects:</h2>
 
 - <b>Endure Hoops</b>
@@ -33,4 +38,7 @@
 📫 enrightjoe4@gmail.com
 <br />
 📲 314-435-9319
+
+
+
 
